@@ -11,7 +11,7 @@ import java.util.TreeSet;
 
 public class DicCleaner {
 
-	private static final Pattern pattern = Pattern.compile("^([a-zA-ZÀ-ÿ0-9\\-^\\s]+)(\\s|/)*.*$");
+	private static final Pattern pattern = Pattern.compile("^([a-zA-ZÀ-ÿ0-9\\-]+)(\\s|/)*.*$");
 
 	private static File srcFile;
 	private static File destFile;
