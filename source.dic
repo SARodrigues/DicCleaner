@@ -1,0 +1,29 @@
+62118
+,	[CAT=punct1a]
+;	[CAT=punct1b]
+:	[CAT=punct1c]
+0/nm
+1/n1
+2/nm
+0th/pt
+1st/p
+1th/tc
+2nd/p
+A
+AA
+AAA
+Aachen/M
+aardvark/SM
+Aaren/M
+Aarhus/M
+Aarika/M
+Aaron/M
+
+abacateiro/p	[$ao$CAT=cp,Prep=a,Art=o$G=f,N=s]
+abacate/p	[CAT=nc,G=m,N=s]
+abacaxi/p	[CAT=nc,G=m,N=s]
+ábaco/p	[CAT=nc,G=m,N=s]
+abade/pb	[CAT=nc,G=m,N=s]
+abadia/p	[CAT=nc,G=f,N=s]
+abafante/p	[CAT=adj,N=s,G=_]
+abafar/XYPLDn	[CAT=v,T=inf,TR=t]
